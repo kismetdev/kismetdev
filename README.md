@@ -19,6 +19,7 @@ func main() {
 - 👀 I’m interested in: [Cybersecurity](https://en.wikipedia.org/wiki/Computer_security), [Coding](https://en.wikipedia.org/wiki/Coding), [Cryptocurrency](https://en.wikipedia.org/wiki/Cryptocurrency), [Linux](https://linux.org/) & the [Open Source Community](https://opensource.org/community).
 - 🌱 I’m currently learning: **Go, C++ & ReactJs**
 - 💬 Ask me about: **Networking & Linux**
+- 👨‍💻 Most of my projects are on my private selhosted [GiTea](https://gitea.io/en-us/).
 - 📫 How to reach me: **kismetdev@tuta.io**
 <br>
 
