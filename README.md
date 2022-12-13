@@ -9,6 +9,7 @@ func main() {
   var languages = "Python, Go, Js, Html & CSS"
   var os = "Arch"
   fmt.Println("Welcome to my profile!")
+  fmt.Printf("My name is %s and I am proficient in %s. I use %s as my operating system.\n", name, languages, os)
 }
 
 ```
