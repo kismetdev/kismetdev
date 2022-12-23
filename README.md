@@ -4,7 +4,7 @@ package profile
 
 import "fmt"
 
-func profile() {
+func profile() (string, string, string) {
   var name = "KismetDev"
   var languages = "Python, Go, Js, Html & CSS"
   var os = "Arch"
