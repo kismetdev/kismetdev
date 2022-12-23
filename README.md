@@ -4,12 +4,12 @@ package profile
 
 import "fmt"
 
-func main() {
+func profile() {
   var name = "KismetDev"
   var languages = "Python, Go, Js, Html & CSS"
   var os = "Arch"
   fmt.Println("Welcome to my profile!")
-  fmt.Printf("My name is %s and I am proficient in %s. I use %s as my operating system.\n", name, languages, os)
+  return name, languages, os
 }
 
 ```
@@ -21,7 +21,7 @@ func main() {
 - 🌱 I’m currently learning: Go, C++ & ReactJs
 - 💬 Ask me about: Networking & Linux
 - 👨‍💻 Most of my projects are on my private selhosted [Gitea](https://gitea.io/en-us/).
-- 📫 How to reach me: **kismetdev@tuta.io**
+- 📫 How to reach me: <a href="mailto:kismetdev@tuta.io">kismetdev@tuta.io</a>
 <br>
 
 *“Arguing that you don't care about the right to privacy because you have nothing to hide is no different than saying you don't care about free speech because you have nothing to say.”*
