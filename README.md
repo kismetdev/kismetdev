@@ -7,7 +7,7 @@ import "fmt"
 func Profile() (string, string, string) {
   var name = "KismetDev"
   var languages = "Python, Go, Js, Html & CSS"
-  var os = "Arch"
+  var os = "Arch, Debian & Fedora"
   fmt.Println("Welcome to my profile!")
   return name, languages, os
 }
